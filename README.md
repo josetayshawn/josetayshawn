@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josetayshawn
-- 👀 I’m interested in learning javascript
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python
+- 🌱Currently learning HTML, CSS, Javascript, Python
 - Network Engineer | CCNA certified
 
 <!---
